@@ -4,5 +4,8 @@ This was meant to be a companion application to a video game. Which one, though,
 # What is it made of?
 Vue.js.
 
+# How do you start it up?
+There's a .bat file I've included in the repo that should do the trick. It's a slapdash answer to a problem that has much better solutions (e.g., Docker), but I was rather pressed for time.
+
 # How long did it take to make?
 3 days, on and off.
