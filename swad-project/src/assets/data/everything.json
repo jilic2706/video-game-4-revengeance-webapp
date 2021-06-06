@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "King Crab",
+        "type": "friend",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin.",
+        "image": "https://www.pacificseafood.com/pac-incoming/2018/05/King_Crab_Whole.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Blue Crab",
+        "type": "foe",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam quam nulla porttitor massa.",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnayturr.com%2Fwp-content%2Fuploads%2F2020%2F07%2Fblue-crab-july022020-min.jpg&f=1&nofb=1"
+    },
+    {
+        "id": 7,
+        "name": "Small Friendly Crab",
+        "type": "friend",
+        "description": ":D",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdarksouls3.wiki.fextralife.com%2Ffile%2FDark-Souls-3%2FLesser%2520Crab.jpg&f=1&nofb=1"  
+    },
+    {
+        "id": 3,
+        "name": "Snow Crab",
+        "type": "friend",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin.",
+        "image": "https://barrygroupinc.com/site/uploads/2017/11/barry-group-north-atlantic-snow-crabs-chionoecetes-opilio-whole-body.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Giant Enemy Crab",
+        "type": "foe",
+        "description": "Malicious by nature, these armoured behemoth scuttle menacingly around the Swamps of Dingledob.",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fdarksouls%2Fimages%2F5%2F59%2FGreat_crab.jpg%2Frevision%2Flatest%3Fcb%3D20160426195521&f=1&nofb=1"
+    },
+    {
+        "id": 6,
+        "name": "Coconut Crab",
+        "type": "foe",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo vel fringilla.",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages2.minutemediacdn.com%2Fimage%2Fupload%2Fc_fill%2Cg_auto%2Ch_1248%2Cw_2220%2Fv1566507156%2Fshape%2Fmentalfloss%2F82033-gettyimages-695928410.jpg%3Fitok%3DnZ-vhHKu&f=1&nofb=1"
+    },
+    {
+        "id": 8,
+        "name": "Japanese Spider Crab",
+        "type": "friend",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed libero enim sed faucibus turpis in eu mi.",
+        "image": "https://www.georgiaaquarium.org/wp-content/uploads/2018/08/animal-crab.jpg"
+    },
+    {
+        "id": 11,
+        "name": "[REDACTED]",
+        "type": "foe",
+        "description": "[REDACTED]",
+        "image": "https://images.glaciermedia.ca/polopoly_fs/1.23052900.1506939963!/fileImage/httpImage/image.jpg_gen/derivatives/landscape_804/family-guy-17-jpg.jpg"
+    }
+]
